@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior from [Zhejiang University of Technology](https://www.zjut.edu.cn/), majoring in software engineering
+I'm a junior from Zhejiang University of Technology, majoring in software engineering
 
 
 
